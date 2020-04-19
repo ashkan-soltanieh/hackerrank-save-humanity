@@ -4,7 +4,7 @@ This program is developed to solve the problem in following link:
 [Hackerrank Save Humanity Problem](https://www.hackerrank.com/challenges/save-humanity/problem)
 
 - Problem Author: Hackerrank
-- Problem Difficulty Level: Expert
+- Problem Difficulty: Expert
 
 ## About Program
 
@@ -18,5 +18,6 @@ This code got score of 22.31 from Hackerrank.
 
 ## Snapshot
 
-save-humanity-random-ascii.py:
+- From save-humanity-random-ascii.py:
+
 ![save-humanity-random-ascii](snapshot.png)
