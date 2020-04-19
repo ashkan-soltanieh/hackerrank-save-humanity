@@ -3,8 +3,8 @@
 This program is developed to solve the problem in following link:
 [Hackerrank Save Humanity Problem](https://www.hackerrank.com/challenges/save-humanity/problem)
 
-Solution Author: Ashkan Soltanieh
-Problem Difficulty Level: Expert
+- Problem Author: Hackerrank
+- Problem Difficulty Level: Expert
 
 ## About Program
 
